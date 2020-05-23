@@ -1,6 +1,6 @@
 # awesomepos
 
-> 涉及到的技术栈主要有vue2.x,Element,webpack
+> 涉及到的技术栈主要有vue2.x，Element，webpack
 
 ## Build Setup
 
