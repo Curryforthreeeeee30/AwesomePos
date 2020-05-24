@@ -314,12 +314,12 @@ export default {
                 this.totalMoney = 0;
                 this.$message({
                     message: '结账成功，感谢你又为店里出了一份力!',
-                    type: 'success'
+                    type: ''
                 });
             }else{
               this.$message({
                     message: '不能空结。老板了解你急切的心情！',
-                    type: 'warning'
+                    type: ''
                 });
             }
         }
